@@ -5,7 +5,9 @@ import cmd
 from datetime import datetime
 import models
 from models.base_model import BaseModel
+from models.user import User
 
+classes = {"BaseModel": BaseModel, "User": User}
 
 class HBNBCommand(cmd.Cmd):
     """ HBNH console """
