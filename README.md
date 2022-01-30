@@ -6,7 +6,7 @@ The console is the first segment of the AirBnB project at ALX School that will c
 The above classes are handled by the abstracted storage engine defined in the 
 [FileStorage](./models/engine/file_storage.py) class.
 
-Every time the backend is initialized, HolbertonBnB instantiates an instance of 
+Every time the backend is initialized, AirBnB_clone instantiates an instance of 
 `FileStorage` called `storage`. The `storage` object is loaded/re-loaded from 
 any class instances stored in the JSON file `file.json`. As class instances are 
 created, updated, or deleted, the `storage` object is used to register 
