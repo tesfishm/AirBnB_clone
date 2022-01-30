@@ -20,7 +20,7 @@ the application (achieved by calls on the `storage` object defined above).
 
 ### Using the Console
 
-The HolbertonBnB console can be run both interactively and non-interactively. 
+The AirBnB_clone console can be run both interactively and non-interactively. 
 To run the console in non-interactive mode, pipe any command(s) into an execution 
 of the file `console.py` at the command line.
 
@@ -45,7 +45,7 @@ of the file `console.py` at the command line.
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/Anteneh2121/AirBnB_clone.git"`
@@ -75,7 +75,7 @@ EOF  all  count  create  destroy  help  quit  show  update
 $
 ```
 
-Alternatively, to use the HolbertonBnB console in interactive mode, run the 
+Alternatively, to use the AirBnB_clone console in interactive mode, run the 
 file `console.py` by itself:
 
 ```
@@ -279,7 +279,7 @@ m', 'first_name': 'Holberton', 'updated_at': datetime.datetime(2019, 2, 17, 21,
 
 ## Testing :straight_ruler:
 
-Unittests for the HolbertonBnB project are defined in the [tests](./tests) 
+Unittests for the AirBnB_clone project are defined in the [tests](./tests) 
 folder. To run the entire test suite simultaneously, execute the following command:
 
 ```
