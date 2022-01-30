@@ -106,7 +106,7 @@ $
 
 ### Console Commands
 
-The HolbertonBnB console supports the following commands:
+The AirBnB console supports the following commands:
 
 * **create**
   * Usage: `create <class>`
