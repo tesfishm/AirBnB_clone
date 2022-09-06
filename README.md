@@ -297,6 +297,5 @@ $ python3 unittest -m tests/test_console.py
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Ephrem Abebe - [Github](https://github.com/ephayeabe)  
-ANTENEH Bizuneh - [Github](https://github.com/Anteneh2121)
+## Author
+Tesfahun Mezemr - [Github](https://github.com/tesfishm)
